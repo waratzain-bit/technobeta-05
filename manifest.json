@@ -1,0 +1,32 @@
+{
+  "name": "AuraFeed Newsroom",
+  "short_name": "AuraFeed",
+  "description": "Platform publikasi independen terintegrasi database Google Sheets & AI Generator. Mematuhi kebijakan konten Google Publisher secara penuh.",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "categories": ["news", "productivity"],
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
